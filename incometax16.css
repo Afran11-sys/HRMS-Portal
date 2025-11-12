@@ -1,0 +1,43 @@
+body {
+		
+			padding: 20px;
+		}
+
+		.form-section {
+			background: white;
+			padding: 20px;
+			border-radius: 8px;
+		}
+
+		.info-box {
+			background: white;
+			padding: 20px;
+			border-radius: 8px;
+			border: 1px solid #d1d4d8;
+			width: 530px;
+			
+		}
+
+		.info-box .important {
+			background-color: #e6c39f;
+			color: #333;
+			font-size: 12px;
+			padding: 2px 8px;
+			border-radius: 5px;
+			margin-left: 5px;
+		}
+
+		.form-label {
+			font-weight: 500;
+		}
+
+		.btn-custom {
+			background-color: #5c7080;
+			color: white;
+		}
+
+		.info-box ul {
+			list-style-type: disc;
+			padding-left: 20px;
+			margin-bottom: 1rem;
+		}

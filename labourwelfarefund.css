@@ -1,0 +1,39 @@
+.btn-grey {
+      background-color: #6c757d;
+      color: white;
+    }
+
+    .rounded-table {
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    .form-select,
+    .form-control {
+      min-width: 160px;
+    }
+
+      body {
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
+
+    .filters select,
+    .filters input,
+    .filters button {
+      margin-right: 10px;
+    }
+
+    .table th,
+    .table td {
+      vertical-align: middle;
+    }
+
+    .section-title {
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+
+    .table-wrapper {
+      overflow-x: auto;
+    }
